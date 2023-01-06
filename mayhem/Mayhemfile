@@ -1,0 +1,4 @@
+project: markdown
+target: markdown-markdown-fuzz
+cmds:
+  - cmd: ./markdown-markdown-fuzz.libfuzzer
